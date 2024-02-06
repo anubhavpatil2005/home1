@@ -1,0 +1,39 @@
+*{ 
+    margin: 0%;
+   font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:#EEF5FF;
+    margin: 0%;
+}
+.my class{
+    background-color: #176B87;
+}
+header{
+    color:black;
+    padding: 100;
+    text-align: center;
+}
+#200{
+    border-radius: 15px;
+    align-items: center;
+}
+.nav-logo{
+    height: 50px;
+    width: 50px;
+}
+.logo{
+    background-image: url("/images.png");
+    background-size: cover;
+    width: 100%;
+}
+nav{
+    background-color: #176B87;
+    color: white;
+}
+nav{
+    background-color: #EEF5FF;
+    margin: 2.5%;
+    color: black;
+    text-align:left;
+}
